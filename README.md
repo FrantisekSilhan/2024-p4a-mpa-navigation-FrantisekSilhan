@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aRiDy-7c)
 # Zadání: Rozšíření aplikace o navigaci
 
 V tomto zadání budete rozšiřovat vaši předchozí aplikaci, která zobrazuje data z veřejného API o navigační prvky. Vaším cílem je vytvořit více obrazovek a umožnit uživateli plynulou navigaci mezi nimi. . Důraz je kladen především na správné použití navigace.
